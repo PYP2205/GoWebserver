@@ -1,0 +1,9 @@
+{
+    "use_global_ip": true,
+    "server_ip" : "fe80::49b1:dbe0:83a3:4ba9",
+    "server_port": 8080,
+    "server_protocol": "HTTPS",
+    "https_cert": "https_cert.pem",
+    "https_key": "https_key.pem",
+    "html_doc": "index.html"
+}
